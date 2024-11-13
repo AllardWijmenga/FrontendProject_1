@@ -1,0 +1,215 @@
+{
+    "themas": [
+      {
+        "naam": "Geschiedenis",
+        "vragen": [
+          {
+            "vraag": "In welk jaar begon de Tweede Wereldoorlog?",
+            "antwoorden": [
+              {"antwoord": "1939", "correct": true},
+              {"antwoord": "1941", "correct": false},
+              {"antwoord": "1938", "correct": false},
+              {"antwoord": "1945", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis1"
+          },
+          {
+            "vraag": "Wie was de leider van het Romeinse Rijk toen het zijn grootste omvang bereikte?",
+            "antwoorden": [
+              {"antwoord": "Trajanus", "correct": true},
+              {"antwoord": "Caesar", "correct": false},
+              {"antwoord": "Augustus", "correct": false},
+              {"antwoord": "Constantijn", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis2"
+          },
+          {
+            "vraag": "Welke Egyptische farao liet de piramide van Gizeh bouwen?",
+            "antwoorden": [
+              {"antwoord": "Cheops", "correct": true},
+              {"antwoord": "Toetanchamon", "correct": false},
+              {"antwoord": "Ramses II", "correct": false},
+              {"antwoord": "Nefertiti", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis3"
+          },
+          {
+            "vraag": "In welk jaar viel de Berlijnse Muur?",
+            "antwoorden": [
+              {"antwoord": "1989", "correct": true},
+              {"antwoord": "1991", "correct": false},
+              {"antwoord": "1979", "correct": false},
+              {"antwoord": "1985", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis4"
+          },
+          {
+            "vraag": "Wie ontdekte Amerika in 1492?",
+            "antwoorden": [
+              {"antwoord": "Christoffel Columbus", "correct": true},
+              {"antwoord": "Amerigo Vespucci", "correct": false},
+              {"antwoord": "Ferdinand Magellaan", "correct": false},
+              {"antwoord": "Vasco da Gama", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis5"
+          },
+          {
+            "vraag": "Welke Griekse filosoof was de leraar van Alexander de Grote?",
+            "antwoorden": [
+              {"antwoord": "Aristoteles", "correct": true},
+              {"antwoord": "Plato", "correct": false},
+              {"antwoord": "Socrates", "correct": false},
+              {"antwoord": "Heraclitus", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis6"
+          },
+          {
+            "vraag": "Wie was de eerste keizer van China?",
+            "antwoorden": [
+              {"antwoord": "Qin Shi Huang", "correct": true},
+              {"antwoord": "Han Wudi", "correct": false},
+              {"antwoord": "Kublai Khan", "correct": false},
+              {"antwoord": "Liu Bang", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis7"
+          },
+          {
+            "vraag": "Welke oorlog vond plaats tussen 1914 en 1918?",
+            "antwoorden": [
+              {"antwoord": "Eerste Wereldoorlog", "correct": true},
+              {"antwoord": "Tweede Wereldoorlog", "correct": false},
+              {"antwoord": "Vietnamoorlog", "correct": false},
+              {"antwoord": "Koreaanse Oorlog", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis8"
+          },
+          {
+            "vraag": "Wie werd in 1963 vermoord in Dallas?",
+            "antwoorden": [
+              {"antwoord": "John F. Kennedy", "correct": true},
+              {"antwoord": "Martin Luther King", "correct": false},
+              {"antwoord": "Abraham Lincoln", "correct": false},
+              {"antwoord": "Ronald Reagan", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis9"
+          },
+          {
+            "vraag": "Welke stad werd verwoest door een vulkaanuitbarsting in 79 na Christus?",
+            "antwoorden": [
+              {"antwoord": "Pompeii", "correct": true},
+              {"antwoord": "Rome", "correct": false},
+              {"antwoord": "Athene", "correct": false},
+              {"antwoord": "Carthago", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-geschiedenis10"
+          }
+        ]
+      },
+      {
+        "naam": "Wetenschap",
+        "vragen": [
+          {
+            "vraag": "Wat is het chemische symbool voor water?",
+            "antwoorden": [
+              {"antwoord": "H2O", "correct": true},
+              {"antwoord": "O2", "correct": false},
+              {"antwoord": "CO2", "correct": false},
+              {"antwoord": "NaCl", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap1"
+          },
+          {
+            "vraag": "Wie heeft de zwaartekrachttheorie ontdekt?",
+            "antwoorden": [
+              {"antwoord": "Isaac Newton", "correct": true},
+              {"antwoord": "Albert Einstein", "correct": false},
+              {"antwoord": "Galileo Galilei", "correct": false},
+              {"antwoord": "Nikola Tesla", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap2"
+          },
+          {
+            "vraag": "Hoeveel planeten zijn er in ons zonnestelsel?",
+            "antwoorden": [
+              {"antwoord": "8", "correct": true},
+              {"antwoord": "9", "correct": false},
+              {"antwoord": "7", "correct": false},
+              {"antwoord": "10", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap3"
+          },
+          {
+            "vraag": "Welke eenheid wordt gebruikt om elektrische stroom te meten?",
+            "antwoorden": [
+              {"antwoord": "Ampère", "correct": true},
+              {"antwoord": "Volt", "correct": false},
+              {"antwoord": "Ohm", "correct": false},
+              {"antwoord": "Watt", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap4"
+          },
+          {
+            "vraag": "Wat is de grootste planeet in ons zonnestelsel?",
+            "antwoorden": [
+              {"antwoord": "Jupiter", "correct": true},
+              {"antwoord": "Saturnus", "correct": false},
+              {"antwoord": "Aarde", "correct": false},
+              {"antwoord": "Mars", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap5"
+          },
+          {
+            "vraag": "Welke wetenschapper ontwikkelde de relativiteitstheorie?",
+            "antwoorden": [
+              {"antwoord": "Albert Einstein", "correct": true},
+              {"antwoord": "Isaac Newton", "correct": false},
+              {"antwoord": "Galileo Galilei", "correct": false},
+              {"antwoord": "Nikola Tesla", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap6"
+          },
+          {
+            "vraag": "Wat is de lichtsnelheid in vacuüm (in km/s)?",
+            "antwoorden": [
+              {"antwoord": "300,000 km/s", "correct": true},
+              {"antwoord": "150,000 km/s", "correct": false},
+              {"antwoord": "200,000 km/s", "correct": false},
+              {"antwoord": "250,000 km/s", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap7"
+          },
+          {
+            "vraag": "Welk orgaan in het menselijk lichaam pompt bloed?",
+            "antwoorden": [
+              {"antwoord": "Het hart", "correct": true},
+              {"antwoord": "De longen", "correct": false},
+              {"antwoord": "De lever", "correct": false},
+              {"antwoord": "De maag", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap8"
+          },
+          {
+            "vraag": "Welke uitvinder wordt geassocieerd met de gloeilamp?",
+            "antwoorden": [
+              {"antwoord": "Thomas Edison", "correct": true},
+              {"antwoord": "Nikola Tesla", "correct": false},
+              {"antwoord": "Alexander Graham Bell", "correct": false},
+              {"antwoord": "Isaac Newton", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap9"
+          },
+          {
+            "vraag": "Wat is het zwaarste natuurlijke element op aarde?",
+            "antwoorden": [
+              {"antwoord": "Uranium", "correct": true},
+              {"antwoord": "Goud", "correct": false},
+              {"antwoord": "Lood", "correct": false},
+              {"antwoord": "Zilver", "correct": false}
+            ],
+            "afbeelding": "url-naar-afbeelding-wetenschap10"
+          }
+        ]
+      }
+    ]
+  }
+    
