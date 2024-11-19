@@ -7,7 +7,7 @@ let tijdOver = 15;
 let vragenData = {};
 
 // Functie om de quiz te starten (User Story 1 en 2)
-function startQuiz(startTimer) {
+function startQuiz() {
   spelerNaam = document.getElementById("spelerNaam").value;
   document.getElementById("speler").innerText = spelerNaam;
   document.getElementById("welkomPagina").style.display = "none";
